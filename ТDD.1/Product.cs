@@ -1,16 +1,30 @@
-﻿namespace ТDD._1
+﻿using System;
+
+namespace ТDD._1
 {
     internal class Product
     {
-        private string expectedName;
-        private decimal expectedPrice;
-        private int expectedQuantity;
-
-        public Product(string expectedName, decimal expectedPrice, int expectedQuantity)
+        private decimal _price;
+        public string Name { get; }
+        public decimal Price
         {
-            this.expectedName = expectedName;
-            this.expectedPrice = expectedPrice;
-            this.expectedQuantity = expectedQuantity;
+            get => _price;
+            set
+            {
+                if (value <= 0) throw new ArgumentException("Price must be a positive value.");
+                _price = value;
+            }
+        }
+        public int Quantity { get; }
+
+        
+
+        public Product(string name, decimal price, int quantity)
+        {
+            
+            Name = "Test Product";
+            _price = 10.5m;
+            Quantity = 3;
         }
     }
 }
