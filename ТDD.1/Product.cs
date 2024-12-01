@@ -21,10 +21,15 @@ namespace ТDD._1
 
         public Product(string name, decimal price, int quantity)
         {
-            
-            Name = "Test Product";
-            _price = 10.5m;
-            Quantity = 3;
+
+            if (string.IsNullOrWhiteSpace(name)) throw new ArgumentException("Name cannot be empty.");
+            if (price <= 0) throw new ArgumentException("Price must be a positive value.");
+            if (quantity < 0) throw new ArgumentException("Quantity cannot be negative.");
+
+            Name = name;
+            _price = price;
+            Quantity = quantity;
         }
     }
+    
 }
