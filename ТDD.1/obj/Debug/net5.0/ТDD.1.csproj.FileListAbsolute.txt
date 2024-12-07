@@ -1,4 +1,3 @@
-C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.AssemblyInfo.cs
@@ -98,3 +97,5 @@ C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\�
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ref\ТDD.1.dll
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.pdb
 C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.genruntimeconfig.cache
+C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\user\Desktop\КПІ 3\1семестр\jira and github\Лаб 3\ТDD.1\ТDD.1\obj\Debug\net5.0\ТDD.1.csproj.AssemblyReference.cache
