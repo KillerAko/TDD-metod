@@ -1,11 +1,10 @@
-# Игнорирование директорий Visual Studio
+
 .vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Игнорирование временных и сборочных файлов
 [Tt]emp/
 *.tmp
 *.log
@@ -14,21 +13,20 @@
 *.csproj.user
 *.pdb
 
-# Игнорирование папок сборки
+
 bin/
 obj/
 
-# Игнорирование NuGet файлов
+
 *.nupkg
 *.snupkg
 project.lock.json
 project.fragment.lock.json
 artifacts/
 
-# Игнорирование тестовых логов
+
 *.testlog
 
-# Игнорирование файлов для кэша сборки
 *.AssemblyReference.cache
 *.CoreCompileInputs.cache
 *.FileListAbsolute.txt
