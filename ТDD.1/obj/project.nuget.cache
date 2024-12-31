@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ab9oq2OZvUO/oAISySOLLWIWedHZGA07CAzXB6xn4OgGPAXwzjGfX83GNynlBGBtTV4Awul5vbYo/j2ZS8DCHA==",
+  "dgSpecHash": "k8v6kGWNiPEhlGPggxUUJnMDNzlpREfbebAMvh90SUfwjSMtub7Ak8CH2E/GirY0LAYG7tVLXP2C+NRshIBO2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\КПІ 3\\1семестр\\jira and github\\Лаб 3\\ТDD.1\\ТDD.1\\ТDD.1.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.9.4\\microsoft.testplatform.objectmodel.16.9.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.testhost\\16.9.4\\microsoft.testplatform.testhost.16.9.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",

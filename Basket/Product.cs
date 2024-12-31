@@ -34,19 +34,6 @@ namespace ТDD._1
             Price = price;
             Quantity = quantity;
         }
-
-        public void Product_ShouldBeCreatedWithCorrectProperties()
-        {
-
-            string expectedName = "Test Product";
-            decimal expectedPrice = 10.5m;
-            int expectedQuantity = 3;
-
-            // Act
-            var product = new Product(expectedName, expectedPrice, expectedQuantity);
-        }
-
-
     }
     
 }

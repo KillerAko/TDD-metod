@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ТDD._1
+namespace ShopLibary
 {
     public class Product
     {
